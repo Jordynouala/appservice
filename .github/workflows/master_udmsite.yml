@@ -55,5 +55,5 @@ jobs:
         with:
           app-name: 'udmsite'
           slot-name: 'Production'
-          package: .
+          package: ./primecare-site-ready
           
